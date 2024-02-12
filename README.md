@@ -29,8 +29,8 @@ A web site tool that allows you to find where your a specific movie or tv show i
 
 ## Installation
 
-- No installation needed. Follow link: https://wabarringer.github.io/project-1/
-
+- No installation needed. Follow link: https://claireeberle.github.io/Streamosaurus/
+- 
 ## Usage
 
 - In the search bar on the top of the page you can enter in the movie or show you are looking for and click "Go". The site will then take you to a page where it will list all of the streaming services and/or rental providers where you selection can be watched. You'll also see a section showing the poster, synopsis, cast, release date and audience rating.
